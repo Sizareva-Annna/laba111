@@ -78,7 +78,7 @@ int main() {
     if (Palindrome(line)) {
         std::cout << "YES\n";
     } else {
-        std::cout << "NO\n";
+        std::cout << "NOtyu\n";
     }
     return 0;
 }
