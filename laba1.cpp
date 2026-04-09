@@ -76,7 +76,7 @@ int main() {
     std::getline(std::cin, line);
 
     if (Palindrome(line)) {
-        std::cout << "YESss\n";
+        std::cout << "YES\n";
     } else {
         std::cout << "NO\n";
     }
